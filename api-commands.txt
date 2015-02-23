@@ -1,0 +1,8 @@
+set foo bar
+get foo
+list
+auth test testpw
+set baz bat
+list
+delete foo
+get baz
